@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 	"github.com/codegangsta/cli"
-	"github.com/mamemomonga/etcdtool/command"
+	"github.com/mamemomonga/etcdtool/src/github.com/mickep76/etcdtool/command"
 )
 
 func main() {
